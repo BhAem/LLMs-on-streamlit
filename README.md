@@ -5,4 +5,4 @@ Use FastChat to building API for multiple LLMs
 
 Can change the api to stream output
 
-```streamlit run src/app.py```
+```streamlit run app.py```
